@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MagdalenaPerryPortfolio/static/css/main.4b311c08.chunk.css",
+    "main.js": "/MagdalenaPerryPortfolio/static/js/main.5e58565f.chunk.js",
+    "main.js.map": "/MagdalenaPerryPortfolio/static/js/main.5e58565f.chunk.js.map",
+    "runtime-main.js": "/MagdalenaPerryPortfolio/static/js/runtime-main.b0492fe2.js",
+    "runtime-main.js.map": "/MagdalenaPerryPortfolio/static/js/runtime-main.b0492fe2.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/MagdalenaPerryPortfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.61cb1c21.chunk.js": "/MagdalenaPerryPortfolio/static/js/2.61cb1c21.chunk.js",
+    "static/js/2.61cb1c21.chunk.js.map": "/MagdalenaPerryPortfolio/static/js/2.61cb1c21.chunk.js.map",
+    "index.html": "/MagdalenaPerryPortfolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/MagdalenaPerryPortfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.4b311c08.chunk.css.map": "/MagdalenaPerryPortfolio/static/css/main.4b311c08.chunk.css.map",
+    "static/js/2.61cb1c21.chunk.js.LICENSE.txt": "/MagdalenaPerryPortfolio/static/js/2.61cb1c21.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/MagdalenaPerryPortfolio/static/media/weather-dash.fac4ebe1.png",
+    "static/media/magdalena-perry-resume.f74b57ac.pdf": "/MagdalenaPerryPortfolio/static/media/magdalena-perry-resume.f74b57ac.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0492fe2.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.61cb1c21.chunk.js",
+    "static/css/main.4b311c08.chunk.css",
+    "static/js/main.5e58565f.chunk.js"
+  ]
+}
